@@ -9,4 +9,7 @@
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
+  <hr>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Siktorovich&theme=hacker&fire=E1E215)](https://git.io/streak-stats)
 </div>
+
