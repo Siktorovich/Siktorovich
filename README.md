@@ -10,6 +10,6 @@
     </a>
   </div>
   <hr>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Siktorovich&theme=hacker&fire=E1E215)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Siktorovich&theme=hacker&fire=E1E215) ](https://git.io/streak-stats)
 </div>
 
