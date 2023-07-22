@@ -12,11 +12,13 @@
   <hr>
   <div id="stats">
     <div id="streak-stats">
-      <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Siktorovich&theme=hacker&fire=20c20e"></a>
+      <img width="600" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siktorovich&theme=midnight_purple">
     </div>
     <div id="">
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siktorovich&layout=compact&theme=dark&bg_color=000000&text_color=17C412&title_color=5d16ff&border_color=17C412"></a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siktorovich&layout=compact&bg_color=000000&text_color=ffffff&title_color=8250df&border_color=ffffff"">
     </div>
   </div>
 </div>
+
+
 
